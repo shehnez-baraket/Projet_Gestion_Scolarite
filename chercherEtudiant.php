@@ -25,19 +25,7 @@ if (isset($chercher)) {
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SCO-ENICAR Etudiants Par CLasse</title>
-    <!-- Bootstrap core CSS -->
-    <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Bootstrap core JS-JQUERY -->
-    <script src="./assets/dist/js/jquery.min.js"></script>
-    <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Custom styles for this template -->
-    <link href="./assets/jumbotron.css" rel="stylesheet">
-
 </head>
 
 <body>

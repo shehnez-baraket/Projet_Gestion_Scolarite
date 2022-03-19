@@ -2,21 +2,9 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SCO-ENICAR Ajouter Etudiant</title>
-  <!-- Bootstrap core CSS -->
-  <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Bootstrap core JS-JQUERY -->
-  <script src="./assets/dist/js/jquery.min.js"></script>
-  <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Custom styles for this template -->
-  <link href="./assets/jumbotron.css" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="citations_bis.js"></script>
+  <title>SCO-ENICAR Ajouter Etudiant</title>
+
 </head>
 
 <body>

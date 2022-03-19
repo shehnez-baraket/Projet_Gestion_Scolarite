@@ -68,9 +68,8 @@ if (isset($valider)) {
     <div class="erreur"><?php echo $erreur ?></div>
     <p class="mt-5 mb-3 text-muted">&copy; SOC-Enicar 2021-2022</p>
   </form>
-
-
-
 </body>
+<?php
+include('footer.html'); ?>
 
 </html>

@@ -79,5 +79,7 @@ if (isset($valider)) {
     </form>
     </script>
 </body>
+<?php
+include('footer.html'); ?>
 
 </html>
